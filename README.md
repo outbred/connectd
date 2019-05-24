@@ -1,2 +1,2 @@
-# connected
+# connectd
 Facebook Replacement
